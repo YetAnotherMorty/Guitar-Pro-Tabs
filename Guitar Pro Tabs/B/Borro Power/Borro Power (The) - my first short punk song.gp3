@@ -1,0 +1,47 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 3.0">
+<title>10060 -- Zeitüberschreitung der Verbindung</title>
+</head>
+
+<body bgcolor="#BEBEBE">
+
+<h2>Proxy-Berichte:</h2>
+<div align="center"><center>
+
+<table border="1" width="90%">
+  <tr>
+    <td width="100" bgcolor="#FFFFFF"><font color="#FF0000"><strong>10060</strong></font></td>
+    <td bgcolor="#FFFFFF"><font color="#FF0000"><strong>Zeitüberschreitung der Verbindung</strong></font></td>
+  </tr>
+</table>
+</center></div>
+
+<hr size="6" width="90%">
+<div align="center"><center>
+
+<table border="0" width="90%">
+  <tr>
+    <td><em>Mit dem im URL angegebenen Webserver konnte keine Verbindung hergestellt werden.&nbsp; Überprüfen Sie den URL, oder wiederholen Sie die Anfrage.</em><p><em>Der Fehler wurde möglicherweise verursacht durch:</em><ul>
+      <li><em>Einen ungültigen / falsch eingegebenen URL</em></li>
+      <li><em>Dem Folgen einer ungültigen Verknüpfung</em></li>
+      <li><em>Ihre Netzwerkverbindung und/oder den momentanen Zustand im Internet</em></li>
+      <li><em>Die Auslastung des Webservers</em></li>
+    </ul>
+    </td>
+  </tr>
+</table>
+</center></div>
+
+<hr size="6" width="90%">
+
+<p><a href="http://www.microsoft.com/proxy"><em>Microsoft Proxy Server v2.0</em></a></p>
+
+<p><strong>Proxyserver: nt-server2.kts-villach.asn-ktn.ac.at</strong></p>
+
+<p><strong>Via: </strong></p>
+</body>
+</html>
