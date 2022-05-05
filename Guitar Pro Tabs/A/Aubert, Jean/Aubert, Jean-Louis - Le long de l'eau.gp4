@@ -1,0 +1,48 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 3.0">
+<title>10060 -- Connection Timed Out</title>
+</head>
+
+<body bgcolor="#BEBEBE">
+
+<h2>Proxy Reports:</h2>
+<div align="center"><center>
+
+<table border="1" width="90%">
+  <tr>
+    <td width="100" bgcolor="#FFFFFF"><font color="#FF0000"><strong>10060</strong></font></td>
+    <td bgcolor="#FFFFFF"><font color="#FF0000"><strong>Connection timed out</strong></font></td>
+  </tr>
+</table>
+</center></div>
+
+<hr size="6" width="90%">
+<div align="center"><center>
+
+<table border="0" width="90%">
+  <tr>
+    <td><em>The web server specified in your URL could not be contacted.&nbsp; Please check
+    your URL or try your request again.</em><p><em>This error could have been caused by:</em><ul>
+      <li><em>Bad / misspelled URL</em></li>
+      <li><em>Following an invalid link</em></li>
+      <li><em>Your network connection and/or transient conditions on the Internet</em></li>
+      <li><em>Load conditions on the web server.</em></li>
+    </ul>
+    </td>
+  </tr>
+</table>
+</center></div>
+
+<hr size="6" width="90%">
+
+<p><a href="http://www.microsoft.com/proxy"><em>Microsoft Proxy Server v2.0</em></a></p>
+
+<p><strong>Proxy Server : pythia.praxis.com.gr</strong></p>
+
+<p><strong>Via : </strong></p>
+</body>
+</html>
