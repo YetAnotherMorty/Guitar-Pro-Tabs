@@ -1,0 +1,78 @@
+
+                <DIV class=Section1> 
+                <P class=MsoNormal 
+                style="mso-list: none; mso-list-ins: 'Murat Divringi' 19991102T2025">&nbsp;
+                </P>
+                <TABLE border=1 cellPadding=0 
+                style="BORDER-BOTTOM: 4.5pt outset; BORDER-LEFT: 4.5pt outset; BORDER-RIGHT:
+                4.5pt outset; BORDER-TOP: 4.5pt outset; WIDTH: 100%; mso-cellspacing: 1.5pt" 
+                width="100%">
+                <TBODY> 
+                <TR> 
+                <TD 
+                style="PADDING-BOTTOM: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt; 
+                PADDING-TOP: 0.75pt" width="22%"> 
+                <P class=MsoNormal><B>Problem Report</B></P>
+                </TD>
+                <TD     
+                style="PADDING-BOTTOM: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt; 
+                PADDING-TOP: 0.75pt" width="78%"> 
+                <P class=MsoNormal>There was a communication problem.</P>
+                </TD>
+                </TR>
+                <tr> 
+                <td 
+                style="PADDING-BOTTOM: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt; 
+                PADDING-TOP: 0.75pt" width="22%"> 
+                <p class=MsoNormal><b>Message ID</b></p>
+                </td>
+                <td 
+                style="PADDING-BOTTOM: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt; 
+                PADDING-TOP: 0.75pt" width="78%"> 
+                <p class=MsoNormal>TCP_ERROR </p>
+                </td>
+                </tr>
+                <TR> 
+                <TD 
+                style="PADDING-BOTTOM: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt; 
+                PADDING-TOP: 0.75pt" width="22%"> 
+                <P class=MsoNormal><B>Problem Description</B></P>
+                </TD>
+                <TD 
+                style="PADDING-BOTTOM: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt; 
+                PADDING-TOP: 0.75pt" width="78%"> 
+                <P class=MsoNormal>The system was unable to communicate with the server.</P>
+                </TD>
+                </TR>
+                <TR> 
+                <TD 
+                style="PADDING-BOTTOM: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt; 
+                PADDING-TOP: 0.75pt" width="22%"> 
+                <P class=MsoNormal><B>Possible Problem Cause</B></P>
+                </TD>
+                <TD 
+                style="PADDING-BOTTOM: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt; 
+                PADDING-TOP: 0.75pt" width="78%"> 
+                <P class=MsoNormal><ul><li>The Web server may be down.</li>
+                <li>The Web server may be too busy.</li>
+                <li>The Web server may be experiencing other problems, preventing it from responding to clients.</li>
+                <li>The communication path may be experiencing problems.</li></ul>
+                <SPAN class=msoIns><INSdatetime="1999-11-02T20:37" cite="mailto:Murat%20Divringi"></SPAN></p>
+                </TD>
+                </TR>
+                <TR> 
+                <TD 
+                style="PADDING-BOTTOM: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt; 
+                PADDING-TOP: 0.75pt" width="22%"> 
+                <P class=MsoNormal><B>Possible Solution</B></P>
+                </TD>
+                <TD 
+                style="PADDING-BOTTOM: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt; 
+                PADDING-TOP: 0.75pt" width="78%"> 
+                <P>Try connecting to this server later.</P>
+                </TD>
+                </TR>
+                </TBODY> 
+                </TABLE>
+                <P>&nbsp;</P>
+        

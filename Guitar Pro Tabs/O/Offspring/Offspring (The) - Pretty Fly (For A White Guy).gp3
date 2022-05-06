@@ -1,0 +1,85 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML dir=ltr><HEAD><TITLE>The page cannot be displayed</TITLE>
+<STYLE>A:link {
+	FONT: 8pt/11pt verdana; COLOR: #ff0000
+}
+A:visited {
+	FONT: 8pt/11pt verdana; COLOR: #4e4e4e
+}
+</STYLE>
+
+<META content=NOINDEX name=ROBOTS>
+<META http-equiv=Content-Type content="text-html; charset=Windows-1252">
+<SCRIPT> 
+function Homepage(){
+<!--
+// in real bits, urls get returned to our script like this:
+// res://shdocvw.dll/http_404.htm#http://www.DocURL.com/bar.htm 
+
+	//For testing use DocURL = "res://shdocvw.dll/http_404.htm#https://www.microsoft.com/bar.htm"
+	DocURL=document.URL;
+	
+	//this is where the http or https will be, as found by searching for :// but skipping the res://
+	protocolIndex=DocURL.indexOf("://",4);
+	
+	//this finds the ending slash for the domain server 
+	serverIndex=DocURL.indexOf("/",protocolIndex + 3);
+
+	//for the href, we need a valid URL to the domain. We search for the # symbol to find the begining 
+	//of the true URL, and add 1 to skip it - this is the BeginURL value. We use serverIndex as the end marker.
+	//urlresult=DocURL.substring(protocolIndex - 4,serverIndex);
+	BeginURL=DocURL.indexOf("#",1) + 1;
+	urlresult=DocURL.substring(BeginURL,serverIndex);
+		
+	//for display, we need to skip after http://, and go to the next slash
+	displayresult=DocURL.substring(protocolIndex + 3 ,serverIndex);
+	document.write('<A HREF="' + urlresult + '">' + displayresult + "</a>");
+}
+//-->
+</SCRIPT>
+
+<META content="MSHTML 5.50.4522.1800" name=GENERATOR></HEAD>
+<BODY bgColor=#ffffff>
+<TABLE cellSpacing=5 cellPadding=3 width=410>
+  <TBODY>
+  <TR>
+    <TD vAlign=center align=left width=360>
+      <H1 style="FONT: 13pt/15pt verdana; COLOR: #000000"><!--Problem-->The page 
+      cannot be displayed</H1></TD></TR>
+  <TR>
+    <TD width=400 colSpan=2><FONT 
+      style="FONT: 8pt/11pt verdana; COLOR: #000000">There is a problem with the 
+      page you are trying to reach and it cannot be displayed.</FONT></TD></TR>
+  <TR>
+    <TD width=400 colSpan=2><FONT 
+      style="FONT: 8pt/11pt verdana; COLOR: #000000">
+      <HR color=#c0c0c0 noShade>
+
+      <P>Please try the following:</P>
+      <UL>
+        <LI>Click the <A href="javascript:location.reload()">Refresh</A> button, 
+        or try again later.<BR>
+        <LI>Open the
+        <SCRIPT>
+	  <!--
+	  if (!((window.navigator.userAgent.indexOf("MSIE") > 0) && (window.navigator.appVersion.charAt(0) == "2")))
+	  {
+	   Homepage();
+	  }
+	  //-->
+	  </SCRIPT>
+         home page, and then look for links to the information you want.</LI>
+        <LI>If you believe you should be able to view this directory or page, 
+        please contact the Web site administrator by using the e-mail address or 
+        phone number listed on the
+        <SCRIPT> Homepage();</SCRIPT>
+         home page. </LI></UL>
+      <H2 style="FONT: 8pt/11pt verdana; COLOR: #000000">10060 - Connection timeout<BR>Internet Security and Acceleration Server</H2>
+      <HR color=#c0c0c0 noShade>
+
+      <P>Technical Information (for support personnel)</P>
+      <UL>
+        <LI>Background:<BR>The gateway could not receive a timely response from the Web site you are trying to access. This might indicate that the network is congested, or that the Web site is experiencing technical difficulties.<P></P></LI>
+        <LI>ISA Server: TSIPROXY.tsidomain.com<BR>
+        Via: <BR>URL: http://www.mysongbook.com/files/o/offs/Offspring%20%28The%29%20-%20Pretty%20Fly%20%28For%20A%20White%20Guy%29.gp3<BR>Time: 7/14/2003 3:42:45 PM GMT
+        </LI></UL></FONT></TD></TR></TBODY></TABLE></BODY></HTML>
