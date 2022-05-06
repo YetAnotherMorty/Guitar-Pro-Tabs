@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML dir=ltr><HEAD><TITLE>The Web site cannot be found</TITLE>
+<STYLE>A:link {
+	FONT: 8pt/11pt verdana; COLOR: #ff0000
+}
+A:visited {
+	FONT: 8pt/11pt verdana; COLOR: #4e4e4e
+}
+</STYLE>
+
+<META content=NOINDEX name=ROBOTS>
+<META http-equiv=Content-Type content="text-html; charset=Windows-1252">
+<SCRIPT> 
+function Homepage(){
+<!--
+// in real bits, urls get returned to our script like this:
+// res://shdocvw.dll/http_404.htm#http://www.DocURL.com/bar.htm 
+
+	//For testing use DocURL = "res://shdocvw.dll/http_404.htm#https://www.microsoft.com/bar.htm"
+	DocURL=document.URL;
+	
+	//this is where the http or https will be, as found by searching for :// but skipping the res://
+	protocolIndex=DocURL.indexOf("://",4);
+	
+	//this finds the ending slash for the domain server 
+	serverIndex=DocURL.indexOf("/",protocolIndex + 3);
+
+	//for the href, we need a valid URL to the domain. We search for the # symbol to find the begining 
+	//of the true URL, and add 1 to skip it - this is the BeginURL value. We use serverIndex as the end marker.
+	//urlresult=DocURL.substring(protocolIndex - 4,serverIndex);
+	BeginURL=DocURL.indexOf("#",1) + 1;
+	urlresult=DocURL.substring(BeginURL,serverIndex);
+		
+	//for display, we need to skip after http://, and go to the next slash
+	displayresult=DocURL.substring(protocolIndex + 3 ,serverIndex);
+	document.write('<A HREF="' + urlresult + '">' + displayresult + "</a>");
+}
+//-->
+</SCRIPT>
+
+<META content="MSHTML 5.50.4522.1800" name=GENERATOR></HEAD>
+<BODY bgColor=#ffffff>
+<TABLE cellSpacing=5 cellPadding=3 width=410>
+  <TBODY>
+  <TR>
+    <TD vAlign=center align=left width=360>
+      <H1 style="FONT: 13pt/15pt verdana; COLOR: #000000"><!--Problem-->The Web
+      site cannot be found</H1></TD></TR>
+  <TR>
+    <TD width=400 colSpan=2><FONT 
+      style="FONT: 8pt/11pt verdana; COLOR: #000000">The Web site you are looking for is
+      unavailable due to its identification configuration settings.</FONT></TD></TR>
+  <TR>
+    <TD width=400 colSpan=2><FONT 
+      style="FONT: 8pt/11pt verdana; COLOR: #000000">
+      <HR color=#c0c0c0 noShade>
+
+      <P>Please try the following:</P>
+      <UL>
+        <LI>Click the <A href="javascript:location.reload()">Refresh</A> button, 
+        or try again later.<BR>
+        <LI>If you typed the page address in the Address bar, make sure that it
+        is spelled correctly.<BR>
+        <LI>Click the
+        <a href="javascript:history.back(1)">
+        Back</a> button to try another link.</LI></UL>
+      <H2 style="FONT: 8pt/11pt verdana; COLOR: #000000">11001 - Host not found<BR>Internet Security and Acceleration Server</H2>
+      <HR color=#c0c0c0 noShade>
+
+      <P>Technical Information (for support personnel)</P>
+      <UL>
+        <LI>Background:<BR>This error indicates that the gateway could not find the IP address of the Web site you are trying to access.<P></P></LI>
+        <LI>ISA Server: WICAM4SA<BR>
+        Via: <BR>URL: http://www.mysongbook.com/files/e/europ/Europe%20-%20Time%20Has%20Come.gp4<BR>Time: 15/02/2003 20.46.30 GMT
+        </LI></UL></FONT></TD></TR></TBODY></TABLE></BODY></HTML>

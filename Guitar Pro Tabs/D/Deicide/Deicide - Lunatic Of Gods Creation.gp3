@@ -1,0 +1,597 @@
+<html>
+<head>
+<TITLE>MySongBook - The Ultimate Guitar Pro Tablature Archive</TITLE>
+<meta name="description" content="MySongBook is the biggest archive of Guitar Pro tablature. Download free Guitar Pro tabs, forum, tutorial, learn to use guitar tab. MSB OLGA.">
+<meta name="keywords" content="tablatures, guitar, edition, tab, editor, forum, music, tutorial, arpeggio, edit, tabs, file, bass, chords, drum, tabla, strings, free, download, guitar, tabbed, batterie, play, musician, communauty, style, gratuit, jazz, files, guitares, shareware, blues, folk, basse, tabla, study, guitar, rock, ragtime, r'n'b, classic, fichiers, tablature, playing, flamenco, trial, editor, demo, picking, alternative, tab, hard, guitare, editor, heavy, metal, songbook, telecharger, artist, scale, guitar, tablature, editor, sound, tabbed, guitars, database, guitariste, accords, guitarists, songs, harmony, etudier, group, tabs, bassist, guitarist, olga, tablatures, news, archive, online, mysongbook, tablature, soft, audio, player, mp3, midi, software, logiciel, guitar pro, utility, guitar, chord, partition, editeur, guitar, notation, scores, book, banjo, playback, song, guitar, tutoriel, gitarra, cifrado, chitarra, basso, tablatura, gitaar, bas, guitarra, baixo, gitara, tabulatury, tabulatur, gitarre">
+<meta name="author" content="MSB Team">
+<meta name="publisher" content="MSB">
+<meta name="content-language" content="english">
+<meta name="robots" content="all">
+<meta name="revist-after" content="1 month">
+<link rev=made href="mailto:contact@mysongbook.com">
+
+<LINK HREF="style/pcnsstyle.css" REL="stylesheet" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+function MM_openBrWindow(theURL,winName,features) { 
+ myPopup=window.open(theURL,winName,features);
+ if (self.focus) myPopup.focus();
+}
+
+
+
+//-->
+</SCRIPT>
+</head>
+<body  bgcolor="#000000" leftmargin="0" topmargin="10" marginwidth="0" marginheight="10" text="#DDFFFF" link="#FFFFFF" vlink="#FFFFFF" alink="#FFFFFF">
+<table width="770" border="0" cellspacing="0" cellpadding="0" align="center" height="100">
+  <tr valign="top"> 
+    <td bgcolor="#99CCFF" valign="top"><img src="img/trans4.gif" width="1" height="10"></td>
+    <td height="1" bgcolor="#003366" valign="top"><table width="131" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#003366">
+  <tr> 
+    <td align="center"><img src="img/topbordg.gif" width="131" height="10"></td>
+  </tr>
+  <tr> 
+    <td align="center" height="20"><span class="txtBLEU1bold">Today<a href="artists.htm" class="txtBLEU1bold" style="text-decoration: none; color: #DDFFFF;">:</a></span><br>
+      <span class="txtBLEU1norm">24774
+</span><span class="txtBLEU2mini"> tabs available</span><br>
+	  <span class="txtBLEU1norm">66102
+</span><span class="txtBLEU2mini"> members</span></td>
+  </tr>
+  <tr valign="middle"> 
+    <td height="55" align="center"><img src="img/menu_quicksearch_drap.eng.gif" width="131" height="38" usemap="#Map" border="0"><map name="Map"><area shape="rect" coords="1,2,19,16" href="./hp-home-newl=eng.htm" alt="english version" title="english version"><area shape="rect" coords="20,2,39,16" href="./hp-home-newl=fra.htm" alt="version fran&ccedil;aise" title="version fran&ccedil;aise"></map></td>
+  </tr>
+  <tr valign="middle"> 
+	<form method="get" action="./" name="FormRech">
+    <td align="center"><input type="hidden" name="msbp" value="eng,tab,tab_list"><input type="text" name="keyword" style="width:100px;" size="10"><input type="image" border="0" name="imageField" src="img/ok.gif" align="absmiddle" width="13" height="18" style="width:13px; height=18px"></td>
+	</form>
+  </tr>
+  <tr valign="middle"> 
+    <td height="55" align="center"><img src="img/menu_browseartists.eng.gif" width="131" height="38"></td>
+  </tr>
+  <tr> 
+    <td> 
+      <table width="127" border="0" cellspacing="0" cellpadding="0" align="center" class="titBLEU1">
+        <tr> 
+          <td align="center"><a href="./tab-artist_list-letter=A.htm" class="titBLANC">A</a>&nbsp;&nbsp;<a href="./tab-artist_list-letter=B.htm" class="titBLANC">B</a>&nbsp;&nbsp;<a href="./tab-artist_list-letter=C.htm" class="titBLANC">C</a>&nbsp;&nbsp;<a href="./tab-artist_list-letter=D.htm" class="titBLANC">D</a>&nbsp;&nbsp;<a href="./tab-artist_list-letter=E.htm" class="titBLANC">E</a>&nbsp;&nbsp;<a href="./tab-artist_list-letter=F.htm" class="titBLANC">F</a>&nbsp;&nbsp;<a href="./tab-artist_list-letter=G.htm" class="titBLANC">G</a><br>
+            <a href="./tab-artist_list-letter=H.htm" class="titBLANC">H</a>&nbsp;&nbsp;<a href="./tab-artist_list-letter=I.htm" class="titBLANC">I</a>&nbsp;&nbsp;<a href="./tab-artist_list-letter=J.htm" class="titBLANC">J</a>&nbsp;&nbsp;<a href="./tab-artist_list-letter=K.htm" class="titBLANC">K</a>&nbsp;&nbsp;<a href="./tab-artist_list-letter=L.htm" class="titBLANC">L</a>&nbsp;&nbsp;<a href="./tab-artist_list-letter=M.htm" class="titBLANC">M</a>&nbsp;&nbsp;<a href="./tab-artist_list-letter=N.htm" class="titBLANC">N</a><br>
+            <a href="./tab-artist_list-letter=O.htm" class="titBLANC">O</a>&nbsp;&nbsp;<a href="./tab-artist_list-letter=P.htm" class="titBLANC">P</a>&nbsp;&nbsp;<a href="./tab-artist_list-letter=Q.htm" class="titBLANC">Q</a>&nbsp;&nbsp;<a href="./tab-artist_list-letter=R.htm" class="titBLANC">R</a>&nbsp;&nbsp;<a href="./tab-artist_list-letter=S.htm" class="titBLANC">S</a>&nbsp;&nbsp;<a href="./tab-artist_list-letter=T.htm" class="titBLANC">T</a>&nbsp;&nbsp;<a href="./tab-artist_list-letter=U.htm" class="titBLANC">U</a><br>
+            <a href="./tab-artist_list-letter=V.htm" class="titBLANC">V</a>&nbsp;&nbsp;<a href="./tab-artist_list-letter=W.htm" class="titBLANC">W</a>&nbsp;&nbsp;<a href="./tab-artist_list-letter=X.htm" class="titBLANC">X</a>&nbsp;&nbsp;<a href="./tab-artist_list-letter=Y.htm" class="titBLANC">Y</a>&nbsp;&nbsp;<a href="./tab-artist_list-letter=Z.htm" class="titBLANC">Z</a>&nbsp;&nbsp;<a href="./tab-artist_list-letter=09.htm" class="titBLANC">0&middot;9</a> 
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr valign="middle"> 
+    <td height="55" align="center"><img src="img/menu_browsecountries.eng.gif" width="131" height="38"></td>
+  </tr>
+  <tr>
+	<form method="get" action="./" name="FormCountry"> 
+    <td align="center"> 
+        <input type="hidden" name="msbp" value="eng,tab,artist_list">
+		<select name="url_country" style="width:110px;" onChange="document.FormCountry.submit();">
+          <option selected>select country</option>
+         <option value="46">Algeria</option>
+         <option value="53">Andorra</option>
+         <option value="44">Argentina</option>
+         <option value="22">Australia</option>
+         <option value="7">Austria</option>
+         <option value="25">Belgium</option>
+         <option value="14">Brazil</option>
+         <option value="10">Canada</option>
+         <option value="48">Chile</option>
+         <option value="39">China</option>
+         <option value="42">Colombia</option>
+         <option value="43">Costa Rica</option>
+         <option value="56">Croatia</option>
+         <option value="32">Cuba</option>
+         <option value="45">Czech Republic</option>
+         <option value="37">Denmark</option>
+         <option value="26">Finland</option>
+         <option value="8">France</option>
+         <option value="15">Germany</option>
+         <option value="63">Greece</option>
+         <option value="68">Guatemala</option>
+         <option value="18">Holland</option>
+         <option value="33">Hong Kong</option>
+         <option value="62">Hungary</option>
+         <option value="61">Indonesia</option>
+         <option value="65">Iran</option>
+         <option value="34">Ireland</option>
+         <option value="38">Israel</option>
+         <option value="16">Italy</option>
+         <option value="24">Jamaica</option>
+         <option value="23">Japan</option>
+         <option value="51">Korea</option>
+         <option value="59">Malaysia</option>
+         <option value="36">Maroc</option>
+         <option value="19">Mexico</option>
+         <option value="41">New Zealand</option>
+         <option value="27">Norway</option>
+         <option value="60">Panama</option>
+         <option value="64">Peru</option>
+         <option value="50">Philippines</option>
+         <option value="20">Poland</option>
+         <option value="30">Portugal</option>
+         <option value="40">Quebec</option>
+         <option value="57">Romania</option>
+         <option value="28">Russia</option>
+         <option value="58">Slovakia</option>
+         <option value="54">Slovenia</option>
+         <option value="49">South Africa</option>
+         <option value="13">Spain</option>
+         <option value="21">Sweden</option>
+         <option value="29">Switzerland</option>
+         <option value="52">Taiwan</option>
+         <option value="55">Tunisia</option>
+         <option value="31">Turkey</option>
+         <option value="11">UK</option>
+         <option value="6">USA</option>
+         <option value="35">Venezuela</option>
+         <option value="67">Yugoslavia</option>
+        </select>
+    </td>
+	</form>
+  </tr>
+  <tr valign="middle"> 
+    <td height="55" align="center"><img src="img/menu_browsestyles.eng.gif" width="131" height="38"></td>
+  </tr>
+  <tr> 
+    <td> 
+      <table width="120" border="0" cellspacing="0" cellpadding="0" align="center">
+        <tr> 
+          <td class="txtBLANCnorm" align="left">
+<img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="./tab-artist_list-id_style=10.htm">Pop/Rock</a><br>
+             
+            <img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="./tab-artist_list-id_style=15.htm">Blues/Jazz</a><br>
+             
+            <img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="./tab-artist_list-id_style=24.htm">Flamenco</a><br>
+             
+            <img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="./tab-artist_list-id_style=33.htm">Country/Folk</a><br>
+             
+            <img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="./tab-artist_list-id_style=34.htm">Bossa/Salsa</a><br>
+             
+            <img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="./tab-artist_list-id_style=38.htm">Reggae</a><br>
+            <img src="img/trans3.gif" width="7" height="7"><br> 
+            <img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="./tab-artist_list-id_style=16.htm">Hard/Heavy</a><br>
+             
+            <img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="./tab-artist_list-id_style=42.htm">Melodic Metal</a><br>
+             
+            <img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="./tab-artist_list-id_style=18.htm">Fusion/Alternative</a><br>
+             
+            <img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="./tab-artist_list-id_style=40.htm">Progressif</a><br>
+             
+            <img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="./tab-artist_list-id_style=17.htm">Extreme</a><br>
+             
+            <img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="./tab-artist_list-id_style=31.htm">Neo Metal/Indus</a><br>
+             
+            <img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="./tab-artist_list-id_style=36.htm">Punk/Grunge</a><br>
+             
+            <img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="./tab-artist_list-id_style=41.htm">Rap/Hip Hop</a><br>
+            <img src="img/trans3.gif" width="7" height="7"><br> 
+            <img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="./tab-artist_list-id_style=13.htm">Classic</a><br>
+             
+            <img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="./tab-artist_list-id_style=14.htm">Picking</a><br>
+             
+            <img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="./tab-artist_list-id_style=27.htm">Banjo</a><br>
+            <img src="img/trans3.gif" width="7" height="7"><br> 
+            <img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="./tab-artist_list-id_style=45.htm">Christian</a><br>
+             
+            <img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="./tab-artist_list-id_style=28.htm">World Music</a><br>
+             
+            <img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="./tab-artist_list-id_style=39.htm">Musical Comedy</a><br>
+             
+            <img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="./tab-artist_list-id_style=22.htm">TV/Movie/Games</a><br>
+             
+            <img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="./tab-artist_list-id_style=44.htm">Traditionnal</a><br>
+             
+            <img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="./tab-artist_list-id_style=29.htm">Other</a><br>
+            <img src="img/trans3.gif" width="7" height="7"><br> 
+            <img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="./tab-artist_list-id_style=37.htm">Compositions</a><br>
+             
+            <img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="./tab-artist_list-id_style=43.htm">Exercises</a><br>
+             
+            <img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="./tab-artist_list-id_style=46.htm">Competitions</a><br>
+             
+             </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr> 
+    <td align="center" class="txtBLEU1mini">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td align="center"><IFRAME SRC="div/xiti.php?lng=eng&univ=hp&page=home"  width=39 height=25 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></IFRAME></td>
+  </tr>
+  <tr> 
+    <td align="center">&nbsp;</td>
+  </tr>
+   <tr>
+	<td align="center"><IFRAME SRC="pub/code_pub/2_1.inc.php" width=125 height=125 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></IFRAME></td>
+  </tr>
+ </table>
+</td>
+    <td bgcolor="#99CCFF"><img src="img/trans1.gif" width="1" height="1"></td>
+    <td><img src="img/trans4.gif" width="6" height="6"></td>
+    <td background="img/fondcorps.gif" bgcolor="#336699"> 
+<table width="492" cellspacing="0" cellpadding="0" align="center" border="0" bgcolor="#000000" background="img/trans4.gif">
+  <tr height="82" bgcolor="#000000"> 
+    <td colspan="3"> 
+      <div align="center"><a href="./hp-home.htm"><img src="img/topcentre.jpg" width="492" height="76" border="0"></a><br>
+        <img src="img/trans4.gif" width="6" height="6"></div>
+    </td>
+  </tr>
+  <tr height="21"> 
+    <td colspan="3" valign="middle" background="img/fondmenucentre.gif" height="21"> 
+      <div align="center"><a href="./hp-home.htm">Home</a><span class="txtBLEU1norm"> 
+        | </span><a href="./div-upload.htm">Submit Tab</a><span class="txtBLEU1norm"> 
+        | </span><a href="./forum-forums.htm" class="txtORANGEbold">Forums</a><span class="txtBLEU1norm"> 
+        | </span><a href="./tickets-entry.htm" class="txtORANGEbold">Tickets</a><span class="txtBLEU1norm"> 
+        | </span><a href="./tutorial-index.htm">Tutorials</a><span class="txtBLEU1norm">
+        | </span><a href="./div-partners.htm">Partners</a><span class="txtBLEU1norm"> 
+        | </span><a href="mailto:contact@mysongbook.com">Contact</a></div>
+    </td>
+  </tr>
+  <tr height="2"> 
+    <td colspan="3" bgcolor="#000000"><img src="img/trans4.gif" width="2" height="2"></td>
+  </tr>
+  <tr height="1"> 
+    <td colspan="3"><img src="img/trans1.gif" width="492" height="1"></td>
+  </tr>
+</table>
+		
+<table width="492" cellspacing="0" cellpadding="0" align="center" border="0">
+  <tr height="15"> 
+    <td width="10" background="img/leftcentre.gif"><img src="img/leftcentre.gif" width="10" height="10"></td>
+    <td width="472" height="15" bgcolor="#336699" background="" valign="bottom" align="center"> 
+      <a href="http://network.sitelink.com.au/ad/54/CD129/" class="txtORANGEBold" target="_blank">MySongBook highly recommends these Lessons ! Click Here !</a>	</td>
+    <td width="10" background="img/rightcentre.gif"><img src="img/rightcentre.gif" width="10" height="10"></td>
+  </tr>
+</table>
+ 
+ 
+<table width="492" cellspacing="0" cellpadding="0" align="center" border="0">
+  <tr height="82"> 
+    <td width="10" background="img/leftcentre.gif"><img src="img/leftcentre.gif" width="10" height="10"></td>
+    <td width="472" height="92" bgcolor="#336699" background="" valign="middle" align="center">
+      <div align="center"><IFRAME SRC="pub/code_pub/1_2.inc.php" width=468 height=60 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></IFRAME></div>
+    </td>
+    <td width="10" background="img/rightcentre.gif"><img src="img/rightcentre.gif" width="10" height="10"></td>
+  </tr>
+</table>
+ 
+<table width="492" cellspacing="0" cellpadding="0" align="center" border="0">
+   
+  <tr> 
+    <td width="10" background="img/leftcentre.gif"><img src="img/leftcentre.gif" width="10" height="10"></td>
+    <td width="472" bgcolor="#336699" valign="top" align="center" background="img/trans2.gif"><table width="472" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr> 
+    <td class="txtBLEU1norm" width="225" valign="top" bgcolor="#336699" height="139"> 
+      <p><span class="titBLEU1">Welcome to MySongBook !</span><br>
+        <img src="img/trans5.gif" width="225" height="1" vspace="3"><br>
+        <img src="img/diag.gif" width="35" height="35" align="left" vspace="2" hspace="3">This site proposes an extensive <a href="http://www.guitar-pro.com" target="_blank">Guitar Pro</a> file database. A Guitar Pro file is not a simple text tablature, it offers the possibility to be <span class="txtBLEU1bold">listen</span>, <span class="txtBLEU1bold">viewed</span> and <span class="txtBLEU1bold">printed</span> with a high resolution quality.<br>
+        In order to use this tabs, you need first to install the software <a href="http://www.guitar-pro.com" target="_blank">Guitar Pro</a>.<br><br>
+        <a href="./div-gpscreenshot.htm">Click here</a> to see an example !		
+		</p>
+    </td>
+    <td class="txtBLEU1norm" width="22" bgcolor="#336699" height="139">&nbsp;</td>
+    <td class="txtBLEU1norm" width="225" valign="top" bgcolor="#336699" height="139"><span class="titBLEU1">What's new ?</span><br>
+      <img src="img/trans5.gif" width="225" height="1" vspace="3"><br>
+      &nbsp;<br>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="40"> 
+            <div align="center">&nbsp;<a href="./tickets-entry.htm" class="txtORANGEbold"><img src="img/newanim.gif" width="25" height="12" border="0"></a>&nbsp;</div>
+          </td>
+          <td> 
+            <div align="center"><span class="txtORANGEbold"><a href="./tickets-entry.htm" class="txtORANGEbold">DOWNLOAD HUNDREDS OF FILES WITH ONLY ONE CLICK!</a></span></div>
+          </td>
+        </tr>
+      </table>
+	  &nbsp;<br>
+      This archive is yours. Don't hesitate to <a href="./div-upload.htm">send us</a> your tabs. We now update the archive <span class="txtBLEU1bold">every day</span> !!!<br><br>
+      To receive the list of new tabs in your mailbox, don't forget to subscribe to the <span class="txtBLEU1bold">MSB newsletter</span> (top right).</td>
+  </tr>
+  <tr> 
+    <td class="txtBLEU1norm" width="225" bgcolor="#336699"> 
+      <p>&nbsp;</p>
+    </td>
+    <td class="txtBLEU1norm" width="22" bgcolor="#336699">&nbsp;</td>
+    <td class="txtBLEU1norm" width="225" bgcolor="#336699">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td width="225" class="txtBLEU1norm" valign="top" bgcolor="#336699"><span class="titBLEU1">Last tabs added:</span><br>
+      <img src="img/trans5.gif" width="225" height="1" vspace="3"><br>
+      <span class="txtBLEU1mini">  &#149; <a href="./tab-tab_list-id_tablature=29724.htm">The Final Countdown (3)</a><br>
+      &nbsp;&nbsp;<a href="./tab-tab_list-id_artist=228.htm" class="txtBLANCmini">Europe</a> - 09/10/03<br>
+       &#149; <a href="./tab-tab_list-id_tablature=29723.htm">Breathe</a><br>
+      &nbsp;&nbsp;<a href="./tab-tab_list-id_artist=779.htm" class="txtBLANCmini">Disturbed</a> - 09/10/03<br>
+       &#149; <a href="./tab-tab_list-id_tablature=29722.htm">The Chance</a><br>
+      &nbsp;&nbsp;<a href="./tab-tab_list-id_artist=323.htm" class="txtBLANCmini">Helloween</a> - 09/10/03<br>
+       &#149; <a href="./tab-tab_list-id_tablature=29721.htm">Deluge</a><br>
+      &nbsp;&nbsp;<a href="./tab-tab_list-id_artist=5040.htm" class="txtBLANCmini">Mr. Bridge</a> - 09/10/03<br>
+       &#149; <a href="./tab-tab_list-id_tablature=29720.htm">Asla Pes Etme</a><br>
+      &nbsp;&nbsp;<a href="./tab-tab_list-id_artist=4271.htm" class="txtBLANCmini">Output</a> - 09/10/03<br>
+       &#149; <a href="./tab-tab_list-id_tablature=29719.htm">Laztana</a><br>
+      &nbsp;&nbsp;<a href="./tab-tab_list-id_artist=5297.htm" class="txtBLANCmini">Latzen</a> - 09/10/03<br>
+       &#149; <a href="./tab-tab_list-id_tablature=29718.htm">More Human Than Human</a><br>
+      &nbsp;&nbsp;<a href="./tab-tab_list-id_artist=354.htm" class="txtBLANCmini">White Zombie</a> - 09/10/03<br>
+       &#149; <a href="./tab-tab_list-id_tablature=29717.htm">Le long de l'eau</a><br>
+      &nbsp;&nbsp;<a href="./tab-tab_list-id_artist=3686.htm" class="txtBLANCmini">Aubert, Jean-Louis</a> - 09/10/03<br>
+       &#149; <a href="./tab-tab_list-id_tablature=29716.htm">Face In The Sand</a><br>
+      &nbsp;&nbsp;<a href="./tab-tab_list-id_artist=26.htm" class="txtBLANCmini">Iron Maiden</a> - 09/10/03<br>
+       &#149; <a href="./tab-tab_list-id_tablature=29715.htm">Baby Appeal</a><br>
+      &nbsp;&nbsp;<a href="./tab-tab_list-id_artist=396.htm" class="txtBLANCmini">Red Hot Chili Peppers</a> - 09/10/03<br>
+       &#149; <a href="./tab-tab_list-id_tablature=29714.htm">Take No Prisoners (2)</a><br>
+      &nbsp;&nbsp;<a href="./tab-tab_list-id_artist=279.htm" class="txtBLANCmini">Megadeth</a> - 09/10/03<br>
+       &#149; <a href="./tab-tab_list-id_tablature=29713.htm">Wait For Sleep (2)</a><br>
+      &nbsp;&nbsp;<a href="./tab-tab_list-id_artist=81.htm" class="txtBLANCmini">Dream Theater</a> - 09/10/03<br>
+       &#149; <a href="./tab-tab_list-id_tablature=29712.htm">This Is The New Shit</a><br>
+      &nbsp;&nbsp;<a href="./tab-tab_list-id_artist=21.htm" class="txtBLANCmini">Marilyn Manson</a> - 09/09/03<br>
+       &#149; <a href="./tab-tab_list-id_tablature=29711.htm">Revelations</a><br>
+      &nbsp;&nbsp;<a href="./tab-tab_list-id_artist=26.htm" class="txtBLANCmini">Iron Maiden</a> - 09/09/03<br>
+       &#149; <a href="./tab-tab_list-id_tablature=29710.htm">Kötek</a><br>
+      &nbsp;&nbsp;<a href="./tab-tab_list-id_artist=4271.htm" class="txtBLANCmini">Output</a> - 09/09/03<br>
+       </span>
+      <div align="right"><a href="./tab-tab_list-id_tablature=morenews.htm" class="txtBLANCmini">more new tabs...</a><br>
+        &nbsp;</div>
+    </td>
+    <td class="txtBLEU1norm" width="22" bgcolor="#336699">&nbsp;</td>
+    <td width="225" class="txtBLEU1norm" valign="top" bgcolor="#336699"><span class="titBLEU1">Top rating:</span><br>
+      <img src="img/trans5.gif" width="225" height="1" vspace="3"><br>
+      <span class="txtBLEU1mini">
+&#149; <a href="./tab-tab_list-id_tablature=20736.htm">Bohemian Rhapsody (3)</a><br>
+      &nbsp;&nbsp;<a href="./tab-tab_list-id_artist=115.htm" class="txtBLANCmini">Queen</a> - 5 stars<br>
+&#149; <a href="./tab-tab_list-id_tablature=15749.htm">Good Times Bad Times</a><br>
+      &nbsp;&nbsp;<a href="./tab-tab_list-id_artist=233.htm" class="txtBLANCmini">Led Zeppelin</a> - 5 stars<br>
+&#149; <a href="./tab-tab_list-id_tablature=11800.htm">Battery (8)</a><br>
+      &nbsp;&nbsp;<a href="./tab-tab_list-id_artist=28.htm" class="txtBLANCmini">Metallica</a> - 5 stars<br>
+&#149; <a href="./tab-tab_list-id_tablature=29426.htm">Barracuda</a><br>
+      &nbsp;&nbsp;<a href="./tab-tab_list-id_artist=2783.htm" class="txtBLANCmini">heart</a> - 5 stars<br>
+&#149; <a href="./tab-tab_list-id_tablature=6281.htm">Since I've Been Loving You (2)</a><br>
+      &nbsp;&nbsp;<a href="./tab-tab_list-id_artist=233.htm" class="txtBLANCmini">Led Zeppelin</a> - 5 stars<br>
+&#149; <a href="./tab-tab_list-id_tablature=9140.htm">Smooth</a><br>
+      &nbsp;&nbsp;<a href="./tab-tab_list-id_artist=255.htm" class="txtBLANCmini">Santana, Carlos</a> - 5 stars<br>
+&#149; <a href="./tab-tab_list-id_tablature=26962.htm">Yyz</a><br>
+      &nbsp;&nbsp;<a href="./tab-tab_list-id_artist=505.htm" class="txtBLANCmini">Rush</a> - 5 stars<br>
+&#149; <a href="./tab-tab_list-id_tablature=13194.htm">Dream Of Mirrors ( Rock In Rio )</a><br>
+      &nbsp;&nbsp;<a href="./tab-tab_list-id_artist=26.htm" class="txtBLANCmini">Iron Maiden</a> - 5 stars<br>
+&#149; <a href="./tab-tab_list-id_tablature=1287.htm">Erotomania</a><br>
+      &nbsp;&nbsp;<a href="./tab-tab_list-id_artist=81.htm" class="txtBLANCmini">Dream Theater</a> - 5 stars<br>
+&#149; <a href="./tab-tab_list-id_tablature=18324.htm">Just What I Needed</a><br>
+      &nbsp;&nbsp;<a href="./tab-tab_list-id_artist=3362.htm" class="txtBLANCmini">Cars, The</a> - 5 stars<br>
+&#149; <a href="./tab-tab_list-id_tablature=21629.htm">The Odyssey</a><br>
+      &nbsp;&nbsp;<a href="./tab-tab_list-id_artist=799.htm" class="txtBLANCmini">Symphony X</a> - 5 stars<br>
+&#149; <a href="./tab-tab_list-id_tablature=25146.htm">The Chain</a><br>
+      &nbsp;&nbsp;<a href="./tab-tab_list-id_artist=156.htm" class="txtBLANCmini">Fleetwood Mac</a> - 5 stars<br>
+&#149; <a href="./tab-tab_list-id_tablature=19864.htm">Believe in Nothing</a><br>
+      &nbsp;&nbsp;<a href="./tab-tab_list-id_artist=1372.htm" class="txtBLANCmini">Nevermore</a> - 5 stars<br>
+&#149; <a href="./tab-tab_list-id_tablature=4734.htm">Tom Sawyer (2)</a><br>
+      &nbsp;&nbsp;<a href="./tab-tab_list-id_artist=505.htm" class="txtBLANCmini">Rush</a> - 5 stars<br>
+&#149; <a href="./tab-tab_list-id_tablature=7589.htm">Black Dog (2)</a><br>
+      &nbsp;&nbsp;<a href="./tab-tab_list-id_artist=233.htm" class="txtBLANCmini">Led Zeppelin</a> - 5 stars<br>
+      </span>
+      <div align="right"><a href="./tab-tab_list-id_tablature=moretop.htm" class="txtBLANCmini">more top rating...</a><br>
+        &nbsp;</div>
+		</td>
+  </tr>
+</table>
+</td>
+    <td width="10" background="img/rightcentre.gif"><img src="img/rightcentre.gif" width="10" height="10"></td>
+  </tr>
+  <tr> 
+    <td width="10" background="img/leftcentre.gif"><img src="img/leftcentre.gif" width="10" height="10"></td>
+    <td width="472" bgcolor="#336699" valign="top" align="center" background="img/trans2.gif">&nbsp;</td>
+    <td width="10" background="img/rightcentre.gif"><img src="img/rightcentre.gif" width="10" height="10"></td>
+  </tr>
+</table>
+    </td>
+    <td><img src="img/trans4.gif" width="6" height="6"></td>
+    <td bgcolor="#99CCFF"><img src="img/trans1.gif" width="1" height="1"></td>
+    <td height="1" bgcolor="#003366" valign="top"><table width="131" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#003366">
+  <tr> 
+    <td align="center"><img src="img/topbordd.gif" width="131" height="10"></td>
+  </tr>
+  <tr> 
+    <td align="center">
+	  <span class="txtBLEU1bold">There are:</span><br>
+      <span class="txtBLEU1norm">123</span><span class="txtBLEU2mini"> guitarists online</span><br>
+	  <span class="txtBLEU1norm">6</span><span class="txtBLEU2mini"> members online</span></td>
+  </tr>
+  <tr valign="middle"> 
+    <td height="55" align="center"><img src="img/menu_newsletter.gif" width="131" height="38"></td>
+  </tr>
+  <tr valign="middle"> 
+    <form method="get" action="./index.php" name="newsletter">
+      <td align="center"><input type="hidden" name="msbp" value="eng,div,add_newsletter">
+		<span class="txtBLEU2mini">Receive the new file list each week by e-mail !</span><br>        
+        <input onFocus="javascript:document.newsletter.news_email.value = '';" type="text" name="news_email" style="width:100px;" size="10" maxlength="100" value="e-mail"><input type="image" border="0" name="imageField" src="img/ok.gif" align="absmiddle" width="13" height="18" style="width:13px; height=18px"><br>
+        <span class="txtBLANCbold">:: <a href="msg.php" target="_blank" class="txtBLANCmini">see the last one</a> ::</span></td>
+    </form>
+  </tr>
+  <tr valign="middle"> 
+    <td height="55" align="center"><img src="img/menu_memberaccess.gif" width="131" height="38"></td>
+  </tr>
+  
+     
+  
+      <tr valign="middle">
+	<form method="post" action="./index.php" name="member">
+	<td align="center">
+	<table width="120" border="0" cellspacing="0" cellpadding="0" align="center">
+		<tr valign="top"> 
+          <td class="txtBLEU1bold" align="center">
+        		<input type="hidden" name="act" value="logon">				<input onFocus="javascript:document.member.gen_login.value = '';" type="text" name="gen_login" style="width:100px;" size="10" maxlength="100" value="login"><img src="img/trans3.gif" align="absmiddle" width="13" height="18"><br>
+				<input onFocus="javascript:document.member.gen_pass.value = '';" type="password" name="gen_pass" style="width:100px;" size="10" maxlength="100" value="password"><input type="image" border="0" name="imageField" src="img/ok.gif" align="absmiddle" width="13" height="18" style="width:13px; height=18px">
+          </td>
+        </tr>
+      </table> 
+      <table width="120" border="0" cellspacing="0" cellpadding="0" align="center">
+        <tr valign="top"> 
+            <td class="txtBLEU1bold" align="left">
+				<img src="img/trans3.gif" width="5" height="7"><br>
+              <img src="img/droite_off.gif" width="6" height="9">&nbsp;<a href="./mbr-member_mod-mod=a.htm">Become a Member</a><br>
+              <img src="img/droite_off.gif" width="6" height="9">&nbsp;<a href="./mbr-member_pass.htm" class="txtBLEU2bold">Lost password ?</a></td>
+        </tr>
+      </table>
+	</td>
+	</form>
+  </tr>
+    <tr valign="middle"> 
+    <td height="55" align="center"><img src="img/menu_partnersites.eng.gif" width="131" height="38"></td>
+  </tr>
+  <tr> 
+    <td> 
+      <table width="120" border="0" cellspacing="0" cellpadding="0" align="center">
+        <tr valign="top"> 
+          <td class="txtBLEU1bold" align="left"> 
+                        <img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="div/redirect_link_partner.php?id=7&link=http://www.guitartabs.cc" target="_blank">Guitar Tab Univers            </a><br>
+			                        <img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="div/redirect_link_partner.php?id=3&link=http://www.mxtabs.net" target="_blank">Mxtabs            </a><br>
+			                        <img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="div/redirect_link_partner.php?id=25&link=http://www.guitarejazz.com" target="_blank">Guitare Jazz            </a><br>
+			                        <img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="div/redirect_link_partner.php?id=56&link=http://www.gratuit.org" target="_blank">Gratuit.org            </a><br>
+			                        <img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="div/redirect_link_partner.php?id=33&link=http://www.midi-tab.com" target="_blank">Greg's Midi&Tab            </a><br>
+			                        <img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="div/redirect_link_partner.php?id=32&link=http://www.guitariff.net" target="_blank">Guitariff.net            </a><br>
+			                        <img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="div/redirect_link_partner.php?id=30&link=http://www.guitariste.com" target="_blank">Guitariste            </a><br>
+			                        <img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="div/redirect_link_partner.php?id=46&link=http://www.magic-tab.com/" target="_blank">Magic Tab            </a><br>
+			                        <img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="div/redirect_link_partner.php?id=58&link=http://www.tabx.net" target="_blank">TabX.net            </a><br>
+			                        <img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="div/redirect_link_partner.php?id=39&link=http://www.abc-tabs.com/" target="_blank">ABC Tabs            </a><br>
+			            			<img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="div/redirect_link_partner.php?id=49&link=http://www.abgraphix.com" target="_blank">Abgraphix.com
+            </a><br>
+            <img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="./div-partners.htm" class="txtBLANCmini">More sites...</a><br>
+            <div align="right"><a href="./div-partners_new.htm" class="txtBLEU2mini"> 
+              add your site !              </a></div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr valign="middle"> 
+    <td height="55" align="center"><img src="img/menu_topsites.eng.gif" width="131" height="38"></td>
+  </tr>
+  <tr> 
+    <td> 
+      <table width="120" border="0" cellspacing="0" cellpadding="0" align="center">
+        <tr valign="top"> 
+          <td class="txtBLEU1bold" align="left"><img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="http://www.tabfind.com/in/?id=34" target="_blank">TabFind</a><br>
+            <img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="http://www.top100tabsites.com/countin.php3?id=925" target="_blank">Top100 
+            TabSites</a><br>
+            <img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="http://www.top100guitarsites.com/countin.php3?id=1020" target="_blank">Top100 
+            GuitarSites</a><br>
+            <img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="http://www.top100tabs.com/tabs/in/?id=79" target="_blank">Top100 
+            Tabs</a><br>
+			<img src="img/puce2.gif" width="6" height="6">&nbsp;<a href="http://www.the-x-perience.com/cgi-bin/autorank/rankem.cgi?id=msbmsb" target="_blank">the-X-perience</a><br>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr> 
+    <td align="center">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td align="center"><a href="http://www.guitar-pro.com" target="_blank"><img src="img/getgpnow.gif" width="88" height="31" border="0"></a><br>
+      <span class="txtBLEU2mini"> 
+      Use Guitar Pro to open, view and listen the tabs of MySongBook !      </span></td>
+  </tr>
+  <tr> 
+    <td align="center">&nbsp;</td>
+  </tr>
+    <tr>
+	<td align="center"><IFRAME SRC="pub/code_pub/3_1.inc.php" width=120 height=60 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></IFRAME></td>
+  </tr>
+ </table>
+</td>
+    <td bgcolor="#99CCFF" valign="top"><img src="img/trans4.gif" width="1" height="10"></td>
+  </tr>
+  <tr height="8"> 
+    <td width="1" bgcolor="#99CCFF" height="8"><img src="img/trans1.gif" width="1" height="1"></td>
+    <td width="131" bgcolor="#003366" height="8"><img src="img/trans3.gif" width="1" height="8"></td>
+    <td width="1" bgcolor="#99CCFF" height="8"><img src="img/trans1.gif" width="1" height="1"></td>
+    <td width="6" height="8"><img src="img/trans4.gif" width="6" height="6"></td>
+    <td width="492" valign="top" height="8"><img src="img/bottomcentre.gif" width="492" height="8"></td>
+    <td width="6" height="8"><img src="img/trans4.gif" width="6" height="6"></td>
+    <td width="1" bgcolor="#99CCFF" height="8"><img src="img/trans1.gif" width="1" height="1"></td>
+    <td width="131" bgcolor="#003366" height="8"><img src="img/trans3.gif" width="1" height="8"></td>
+    <td width="1" bgcolor="#99CCFF" height="8"><img src="img/trans1.gif" width="1" height="1"></td>
+  </tr>
+  <tr height="21"> 
+    <td width="1" bgcolor="#99CCFF" valign="bottom" height="21"><img src="img/trans4.gif" width="1" height="10"></td>
+    <td width="131" bgcolor="#003366" valign="bottom" height="21"><img src="img/bottombordg.gif" width="131" height="10"></td>
+    <td width="1" bgcolor="#99CCFF" height="21"><img src="img/trans1.gif" width="1" height="1"></td>
+    <td width="6" height="21"><img src="img/trans4.gif" width="6" height="6"></td>
+    <td width="492" valign="middle" background="img/fondmenubas.gif" height="21"> 
+      <div align="center"><span class="txtBLEU1norm"> </span><a href="mailto:contact@mysongbook.com">&copy; 
+        2002 MSB</a><span class="txtBLEU1norm"> | </span><a href="./div-policy.htm">Privacy Policy</a><span class="txtBLEU1norm"> 
+        | </span><a href="./div-termsofuse.htm">Terms of Use</a><span class="txtBLEU1norm"> 
+        </span><span class="txtBLEU1norm"> | </span><a href="#TOP">Top</a></div>
+    </td>
+    <td width="6" height="21"><img src="img/trans4.gif" width="6" height="6"></td>
+    <td width="1" bgcolor="#99CCFF" height="21"><img src="img/trans1.gif" width="1" height="1"></td>
+    <td width="131" bgcolor="#003366" valign="bottom" height="21"><img src="img/trans3.gif" width="1" height="8"><img src="img/bottombordd.gif" width="131" height="10"></td>
+    <td width="1" bgcolor="#99CCFF" valign="bottom" height="21"><img src="img/trans4.gif" width="1" height="10"></td>
+  </tr>
+</table>
+</body>
+</html>
+<script language="JavaScript">
+// IMAGE FLOTTANTE EN BAS A DROITE
+
+<!-- Début
+function setVariables() {
+
+// Largeur de l'image en pixels
+imgwidth = 120;
+
+// Hauteur de l'image en pixels
+imgheight = 30;
+
+if (navigator.appName == "Netscape") {
+horz=".left";
+vert=".top";
+docStyle="document.";
+styleDoc="";
+innerW="window.innerWidth";
+innerH="window.innerHeight";
+offsetX="window.pageXOffset";
+offsetY="window.pageYOffset";
+}
+else {
+horz=".pixelLeft";
+vert=".pixelTop";
+docStyle="";
+styleDoc=".style";
+innerW="document.body.clientWidth";
+innerH="document.body.clientHeight";
+offsetX="document.body.scrollLeft";
+offsetY="document.body.scrollTop";
+}
+}
+function checkLocation() {
+objectXY="branding";
+var availableX=eval(innerW);
+var availableY=eval(innerH);
+var currentX=eval(offsetX);
+var currentY=eval(offsetY);
+x=availableX-(imgwidth+10)+currentX;
+y=availableY-(imgheight+10)+currentY;
+evalMove(); //lwf
+setTimeout("checkLocation()",10);
+}
+function evalMove() {
+eval(docStyle + objectXY + styleDoc + horz + "=" + x);
+eval(docStyle + objectXY + styleDoc + vert + "=" + y);
+}
+// Fin -->
+</script>
+
+<div id="branding" style="position:absolute; visibility:show; left:235px; top:-50px; z-index:2">
+<table width="10" bgcolor="#ffffff">
+   <tr>
+      <td>
+         <a href="http://network.sitelink.com.au/ad/50/CD129/"target="_blank"><img src="http://network.sitelink.com.au/banner/129/50" alt="Learn how to play killer riffs, FAST!" border="0"></a>      </td>
+   </tr>
+</table>
+</div>
+<script language="JavaScript">setVariables();checkLocation();</script>
